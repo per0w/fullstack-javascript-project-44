@@ -7,7 +7,7 @@ const cli = () => {
 
   console.log(`Hello, ${name}`);
 
-  return name;
+  return { name, question: readlineSync.question };
 };
 
 export default cli;
