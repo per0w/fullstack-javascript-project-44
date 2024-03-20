@@ -1,6 +1,6 @@
 import createGame, { getRandomNumber } from '../index.js';
 
-const generateListOfNumber = (startOfList = 1, endOfList = 10) => {
+const generateListOfNumbers = (startOfList = 1, endOfList = 10) => {
   const result = [];
 
   const step = getRandomNumber(1, 4);
@@ -17,7 +17,7 @@ const progressionGame = () => {
 
   const endOfList = getRandomNumber(20, 30);
 
-  const progressionNumbers = generateListOfNumber(startOfList, endOfList);
+  const progressionNumbers = generateListOfNumbers(startOfList, endOfList);
 
   const randomIndex = getRandomNumber(0, progressionNumbers.length - 1);
 

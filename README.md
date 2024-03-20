@@ -3,14 +3,17 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/2c0b287cc66dcdcda04a/maintainability)](https://codeclimate.com/github/per0w/fullstack-javascript-project-44/maintainability)
 
-### Brain-even
+### Игра: "Проверка на чётность"
 [![asciicast](https://asciinema.org/a/yeXKOBncrWfUrLkWyiz3DoObb.svg)](https://asciinema.org/a/yeXKOBncrWfUrLkWyiz3DoObb)
 
-### Brain-calc:
+### Игра: "Калькулятор"
 [![asciicast](https://asciinema.org/a/ZWqhMeyhJTNH5lQ6umSTgMcRx.svg)](https://asciinema.org/a/ZWqhMeyhJTNH5lQ6umSTgMcRx)
 
-### Brain-gcd
+### Игра "НОД"
 [![asciicast](https://asciinema.org/a/CHXLdaHAqaLyNsPHtjqpllSJT.svg)](https://asciinema.org/a/CHXLdaHAqaLyNsPHtjqpllSJT)
 
-## Brain-progression
+### Игра "Арифметическая прогрессия"
 [![asciicast](https://asciinema.org/a/nI5ovF8qFpuAa6eItOEPuWqFw.svg)](https://asciinema.org/a/nI5ovF8qFpuAa6eItOEPuWqFw)
+
+### Игра "Простое ли число?"
+[![asciicast](https://asciinema.org/a/m5mpoEni4XP6bp3QUUU5ukcUO.svg)](https://asciinema.org/a/m5mpoEni4XP6bp3QUUU5ukcUO)
